@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EventSearchService.iml" filepath="$PROJECT_DIR$/EventSearchService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-server/client-server.iml" filepath="$PROJECT_DIR$/client-server/client-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-server/web-server.iml" filepath="$PROJECT_DIR$/web-server/web-server.iml" />
+    </modules>
+  </component>
+</project>
